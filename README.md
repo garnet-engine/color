@@ -9,7 +9,7 @@ Garnet engine color helper
    ```yaml
    dependencies:
      garnet-color:
-       github: garnet-engine/garnet-color
+       github: garnet-engine/color
    ```
 
 2. Run `shards install`
@@ -22,7 +22,7 @@ require "garnet-color"
 
 ## Contributing
 
-1. Fork it (<https://github.com/garnet-engine/garnet-color/fork>)
+1. Fork it (<https://github.com/garnet-engine/color/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
